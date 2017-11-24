@@ -1,2 +1,2 @@
 # EventsPlatform
-Git for Developing Events Platform
+Repo for Testing IDEs
